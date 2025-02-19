@@ -1,1 +1,1 @@
-# htmlcss
+I have worked on foundational web development projects, including building a basic portfolio using HTML with both inline and external CSS, as well as creating a simple feedback form using HTML and CSS. These projects have helped me understand the fundamentals of web design, styling techniques, and structuring webpages effectively. Through these exercises, I have gained practical experience in front-end development and improved my proficiency in writing clean and responsive code.
